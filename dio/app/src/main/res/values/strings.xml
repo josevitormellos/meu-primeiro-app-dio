@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Meu Primeiro Projeto</string>
+    <string name="Apresentar" translatable="false">Meu nome é José e esté é um projeto Dio</string>
+</resources>
